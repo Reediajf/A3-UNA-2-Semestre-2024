@@ -1,1 +1,1 @@
-Projeto conduzido pelos professores Jardel e Fabrício, da Faculdade Una Sete Lagoas, com o objetivo de promover a aprendizagem em Java.
+Este projeto foi desenvolvido sob a orientação dos professores Jardel e Fabrício, da Faculdade Una Sete Lagoas, com o objetivo de fomentar o aprendizado em Java por meio de práticas e estudos aplicados
